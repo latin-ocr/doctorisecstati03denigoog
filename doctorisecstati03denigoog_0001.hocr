@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisecstati03denigoog_0001.png"; bbox 0 0 4359 6267; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 648 0 3862 1205">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 648 0 3862 1205">
+     <span class='ocr_line' id='line_1_1' title="bbox 648 0 3862 1205; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 648 0 3862 1205; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3074 5905 3769 5976">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3074 5882 3947 5978">
+     <span class='ocr_line' id='line_1_2' title="bbox 3074 5905 3769 5976; baseline 0.002 -17"><span class='ocrx_word' id='word_1_2' title='bbox 3074 5909 3323 5974; x_wconf 55' lang='lat' dir='ltr'>Dtszrfrffsi</span> <span class='ocrx_word' id='word_1_3' title='bbox 3350 5909 3414 5976; x_wconf 57' lang='lat' dir='ltr'>[DJ</span> <span class='ocrx_word' id='word_1_4' title='bbox 3583 5905 3651 5929; x_wconf 59' lang='lat'><em>*</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 3675 5913 3677 5925; x_wconf 67' lang='grc'>”</span> <span class='ocrx_word' id='word_1_6' title='bbox 3768 5907 3769 5913; x_wconf 75' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 118 3192 4356 6260">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 118 3192 4356 6260">
+     <span class='ocr_line' id='line_1_3' title="bbox 118 3192 4356 6260; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 118 3192 4356 6260; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

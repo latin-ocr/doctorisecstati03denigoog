@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisecstati03denigoog_0514.png"; bbox 0 0 4359 6267; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1536 2121 2806 3770">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1536 2121 2806 3770">
+     <span class='ocr_line' id='line_1_1' title="bbox 1536 2121 2806 3770"><span class='ocrx_word' id='word_1_1' title='bbox 1536 2121 2806 3770; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1315 5236 2996 5309">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1315 5236 2996 5309">
+     <span class='ocr_line' id='line_1_2' title="bbox 1315 5236 2996 5309; baseline 0.001 -18"><span class='ocrx_word' id='word_1_2' title='bbox 1315 5236 1486 5309; x_wconf 75' lang='lat' dir='ltr'>Typis</span> <span class='ocrx_word' id='word_1_3' title='bbox 1532 5238 1808 5293; x_wconf 80' lang='lat' dir='ltr'><strong>Cartusiae</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1855 5239 2081 5293; x_wconf 79' lang='lat' dir='ltr'>Sanctae</span> <span class='ocrx_word' id='word_1_5' title='bbox 2126 5239 2321 5294; x_wconf 83' lang='lat' dir='ltr'><strong>Mariae</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2368 5239 2439 5294; x_wconf 82' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2488 5238 2687 5294; x_wconf 75' lang='lat' dir='ltr'><strong>PratiS.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2738 5238 2996 5294; x_wconf 79' lang='lat' dir='ltr'><strong>Tornaci.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1728 5318 2599 5391">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1728 5318 2599 5391">
+     <span class='ocr_line' id='line_1_3' title="bbox 1728 5318 2599 5391; baseline -0.001 -19"><span class='ocrx_word' id='word_1_9' title='bbox 1728 5321 1792 5372; x_wconf 78' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1837 5318 2145 5372; x_wconf 57' lang='lat' dir='ltr'>BAunscuox</span> <span class='ocrx_word' id='word_1_11' title='bbox 2185 5318 2599 5391; x_wconf 80' lang='lat' dir='ltr'><strong>typographus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3225 5744 3297 5783">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3225 5744 3297 5783">
+     <span class='ocr_line' id='line_1_4' title="bbox 3225 5744 3297 5783; baseline 0.014 -1"><span class='ocrx_word' id='word_1_12' title='bbox 3225 5744 3297 5783; x_wconf 58' lang='grc' dir='ltr'><strong>ἃ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 3074 5838 3946 6012">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3074 5838 3946 6012">
+     <span class='ocr_line' id='line_1_5' title="bbox 3074 5838 3946 6012; baseline 0 -53"><span class='ocrx_word' id='word_1_13' title='bbox 3074 5889 3323 5974; x_wconf 45' lang='lat' dir='ltr'><strong>[mm</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 3350 5910 3413 5974; x_wconf 69' lang='lat' dir='ltr'><strong>by</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 3435 5838 3946 6012; x_wconf 67' lang='lat' dir='ltr'>Google</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

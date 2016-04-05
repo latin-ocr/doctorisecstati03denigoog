@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisecstati03denigoog_0023.png"; bbox 0 0 4359 6267; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 463 2671 3489 3120">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 463 2671 3489 3120">
+     <span class='ocr_line' id='line_1_1' title="bbox 963 2671 2997 2783; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 963 2671 1875 2783; x_wconf 81' lang='lat' dir='ltr'><strong>TRANSLATIO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1951 2672 2166 2779; x_wconf 82' lang='grc' dir='ltr'>ΧΠ</span> <span class='ocrx_word' id='word_1_3' title='bbox 2246 2672 2997 2780; x_wconf 84' lang='lat' dir='ltr'>LIBRORUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 463 2977 3489 3120; baseline -0.002 0"><span class='ocrx_word' id='word_1_4' title='bbox 463 2984 726 3120; x_wconf 88' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_5' title='bbox 867 2978 2086 3119; x_wconf 83' lang='lat' dir='ltr'>INSTITUTIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 2236 2977 2511 3115; x_wconf 68' lang='lat' dir='ltr'>SS4</span> <span class='ocrx_word' id='word_1_7' title='bbox 2628 2977 3489 3115; x_wconf 85' lang='lat' dir='ltr'><strong>PATRUM</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
